@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author sdas
- *
- */
-module helloworld {
-}
