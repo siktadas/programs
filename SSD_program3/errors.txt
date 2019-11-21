@@ -1,0 +1,5 @@
+Name: Sikta Swarnav Das
+Date: November 20, 2019
+
+Errors:
+IglooScore2 line 60 -- args != null is wrong for testing for both cases. The only way for it to be null is if no arguments are passed.
