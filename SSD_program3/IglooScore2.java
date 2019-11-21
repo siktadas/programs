@@ -56,8 +56,7 @@ public int overallScore()
 public static void main(String args[])
 {
    int s1, s2, s3;
-   //change args == null to args.length to test both cases
-   if (args.length == 0  || args.length != 3) {
+   if (args==null || args.length != 3) {
       System.err.println("Error: must supply three arguments!");
       return;
    }
